@@ -14,9 +14,13 @@ This portfolio presents my three main experiences in the fields of embedded syst
    - Analysis of vulnerabilities.
    - [Project details](./lorawan-attacks-reproduction/README.md)
 
-3. **M1 Internship – Serma Safety & Security (4 months)**
+3. **M1 Internship – Serma Safety & Security (19 weeks)**
    - Responsible for the LoRaWAN part of an IoT training kit.
    - [Project details](./serma-iot-lorawan/README.md)
+  
+4. **University Project - Fuzzing on LTE-M protocol**
+
+5. **M2 Intership - IMDEA Networks (20 Weeks)**
 
 
 [Download my resume](./_ressources/CV_2025_Internship.pdf)
