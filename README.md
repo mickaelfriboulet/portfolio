@@ -18,9 +18,9 @@ This portfolio presents my three main experiences in the fields of embedded syst
    - Responsible for the LoRaWAN part of an IoT training kit.
    - [Project details](./serma-iot-lorawan/README.md)
   
-4. **University Project - Fuzzing on LTE-M protocol**
+4. **University Project - Fuzzing on LTE-M protocol** - To detail
 
-5. **M2 Intership - IMDEA Networks (20 Weeks)**
+5. **M2 Intership - IMDEA Networks (20 Weeks)** - To detail
 
 
 [Download my resume](./_ressources/CV_2025_Internship.pdf)
